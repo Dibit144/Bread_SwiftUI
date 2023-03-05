@@ -11,6 +11,24 @@
 		F29E3B6C29B45ACC008DF891 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B6B29B45ACC008DF891 /* ContentView.swift */; };
 		F29E3B6E29B45ACD008DF891 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F29E3B6D29B45ACD008DF891 /* Assets.xcassets */; };
 		F29E3B7229B45ACD008DF891 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F29E3B7129B45ACD008DF891 /* Preview Assets.xcassets */; };
+		F29E3B7A29B46C34008DF891 /* PreviewCellOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B7929B46C34008DF891 /* PreviewCellOne.swift */; };
+		F29E3B7D29B46CC0008DF891 /* BreadDetailViewOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B7C29B46CC0008DF891 /* BreadDetailViewOne.swift */; };
+		F29E3B7F29B46CFC008DF891 /* BreadListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B7E29B46CFC008DF891 /* BreadListView.swift */; };
+		F29E3B8129B46D0E008DF891 /* PreferencesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B8029B46D0E008DF891 /* PreferencesView.swift */; };
+		F29E3B8329B4713F008DF891 /* BreadDetailViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B8229B4713F008DF891 /* BreadDetailViewTwo.swift */; };
+		F29E3B8529B4714D008DF891 /* BreadDetailViewThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B8429B4714D008DF891 /* BreadDetailViewThree.swift */; };
+		F29E3B8729B4715A008DF891 /* BreadDetailViewFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B8629B4715A008DF891 /* BreadDetailViewFour.swift */; };
+		F29E3B8929B4716A008DF891 /* BreadDetailViewFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B8829B4716A008DF891 /* BreadDetailViewFive.swift */; };
+		F29E3B8B29B47177008DF891 /* BreadDetailViewSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B8A29B47177008DF891 /* BreadDetailViewSix.swift */; };
+		F29E3B8D29B47185008DF891 /* PreviewCellTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B8C29B47185008DF891 /* PreviewCellTwo.swift */; };
+		F29E3B8F29B47192008DF891 /* PreviewCellThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B8E29B47192008DF891 /* PreviewCellThree.swift */; };
+		F29E3B9129B4719F008DF891 /* PreviewCellFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B9029B4719F008DF891 /* PreviewCellFour.swift */; };
+		F29E3B9329B471AE008DF891 /* PreviewCellFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B9229B471AE008DF891 /* PreviewCellFive.swift */; };
+		F29E3B9529B471BB008DF891 /* PreviewCellSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B9429B471BB008DF891 /* PreviewCellSix.swift */; };
+		F29E3B9729B47304008DF891 /* BreadDetailViewSeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B9629B47304008DF891 /* BreadDetailViewSeven.swift */; };
+		F29E3B9929B47311008DF891 /* BreadDetailViewEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B9829B47311008DF891 /* BreadDetailViewEight.swift */; };
+		F29E3B9B29B47320008DF891 /* PreviewCellSeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B9A29B47320008DF891 /* PreviewCellSeven.swift */; };
+		F29E3B9D29B4732C008DF891 /* PreviewCellEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29E3B9C29B4732C008DF891 /* PreviewCellEight.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +38,24 @@
 		F29E3B6D29B45ACD008DF891 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F29E3B6F29B45ACD008DF891 /* Bread_SwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Bread_SwiftUI.entitlements; sourceTree = "<group>"; };
 		F29E3B7129B45ACD008DF891 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F29E3B7929B46C34008DF891 /* PreviewCellOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCellOne.swift; sourceTree = "<group>"; };
+		F29E3B7C29B46CC0008DF891 /* BreadDetailViewOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadDetailViewOne.swift; sourceTree = "<group>"; };
+		F29E3B7E29B46CFC008DF891 /* BreadListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadListView.swift; sourceTree = "<group>"; };
+		F29E3B8029B46D0E008DF891 /* PreferencesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferencesView.swift; sourceTree = "<group>"; };
+		F29E3B8229B4713F008DF891 /* BreadDetailViewTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadDetailViewTwo.swift; sourceTree = "<group>"; };
+		F29E3B8429B4714D008DF891 /* BreadDetailViewThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadDetailViewThree.swift; sourceTree = "<group>"; };
+		F29E3B8629B4715A008DF891 /* BreadDetailViewFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadDetailViewFour.swift; sourceTree = "<group>"; };
+		F29E3B8829B4716A008DF891 /* BreadDetailViewFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadDetailViewFive.swift; sourceTree = "<group>"; };
+		F29E3B8A29B47177008DF891 /* BreadDetailViewSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadDetailViewSix.swift; sourceTree = "<group>"; };
+		F29E3B8C29B47185008DF891 /* PreviewCellTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCellTwo.swift; sourceTree = "<group>"; };
+		F29E3B8E29B47192008DF891 /* PreviewCellThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCellThree.swift; sourceTree = "<group>"; };
+		F29E3B9029B4719F008DF891 /* PreviewCellFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCellFour.swift; sourceTree = "<group>"; };
+		F29E3B9229B471AE008DF891 /* PreviewCellFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCellFive.swift; sourceTree = "<group>"; };
+		F29E3B9429B471BB008DF891 /* PreviewCellSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCellSix.swift; sourceTree = "<group>"; };
+		F29E3B9629B47304008DF891 /* BreadDetailViewSeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadDetailViewSeven.swift; sourceTree = "<group>"; };
+		F29E3B9829B47311008DF891 /* BreadDetailViewEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreadDetailViewEight.swift; sourceTree = "<group>"; };
+		F29E3B9A29B47320008DF891 /* PreviewCellSeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCellSeven.swift; sourceTree = "<group>"; };
+		F29E3B9C29B4732C008DF891 /* PreviewCellEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCellEight.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +88,11 @@
 		F29E3B6829B45ACC008DF891 /* Bread_SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				F29E3B7B29B46CA1008DF891 /* Bread Detail Views 1-6 */,
+				F29E3B7829B46C0F008DF891 /* Preview Cells 1-6 */,
 				F29E3B6929B45ACC008DF891 /* Bread_SwiftUIApp.swift */,
+				F29E3B8029B46D0E008DF891 /* PreferencesView.swift */,
+				F29E3B7E29B46CFC008DF891 /* BreadListView.swift */,
 				F29E3B6B29B45ACC008DF891 /* ContentView.swift */,
 				F29E3B6D29B45ACD008DF891 /* Assets.xcassets */,
 				F29E3B6F29B45ACD008DF891 /* Bread_SwiftUI.entitlements */,
@@ -67,6 +107,36 @@
 				F29E3B7129B45ACD008DF891 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F29E3B7829B46C0F008DF891 /* Preview Cells 1-6 */ = {
+			isa = PBXGroup;
+			children = (
+				F29E3B7929B46C34008DF891 /* PreviewCellOne.swift */,
+				F29E3B8C29B47185008DF891 /* PreviewCellTwo.swift */,
+				F29E3B8E29B47192008DF891 /* PreviewCellThree.swift */,
+				F29E3B9029B4719F008DF891 /* PreviewCellFour.swift */,
+				F29E3B9229B471AE008DF891 /* PreviewCellFive.swift */,
+				F29E3B9429B471BB008DF891 /* PreviewCellSix.swift */,
+				F29E3B9A29B47320008DF891 /* PreviewCellSeven.swift */,
+				F29E3B9C29B4732C008DF891 /* PreviewCellEight.swift */,
+			);
+			path = "Preview Cells 1-6";
+			sourceTree = "<group>";
+		};
+		F29E3B7B29B46CA1008DF891 /* Bread Detail Views 1-6 */ = {
+			isa = PBXGroup;
+			children = (
+				F29E3B7C29B46CC0008DF891 /* BreadDetailViewOne.swift */,
+				F29E3B8229B4713F008DF891 /* BreadDetailViewTwo.swift */,
+				F29E3B8429B4714D008DF891 /* BreadDetailViewThree.swift */,
+				F29E3B8629B4715A008DF891 /* BreadDetailViewFour.swift */,
+				F29E3B8829B4716A008DF891 /* BreadDetailViewFive.swift */,
+				F29E3B8A29B47177008DF891 /* BreadDetailViewSix.swift */,
+				F29E3B9629B47304008DF891 /* BreadDetailViewSeven.swift */,
+				F29E3B9829B47311008DF891 /* BreadDetailViewEight.swift */,
+			);
+			path = "Bread Detail Views 1-6";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,7 +209,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F29E3B9D29B4732C008DF891 /* PreviewCellEight.swift in Sources */,
+				F29E3B8929B4716A008DF891 /* BreadDetailViewFive.swift in Sources */,
+				F29E3B8B29B47177008DF891 /* BreadDetailViewSix.swift in Sources */,
+				F29E3B9729B47304008DF891 /* BreadDetailViewSeven.swift in Sources */,
+				F29E3B9329B471AE008DF891 /* PreviewCellFive.swift in Sources */,
+				F29E3B9129B4719F008DF891 /* PreviewCellFour.swift in Sources */,
 				F29E3B6C29B45ACC008DF891 /* ContentView.swift in Sources */,
+				F29E3B9929B47311008DF891 /* BreadDetailViewEight.swift in Sources */,
+				F29E3B9529B471BB008DF891 /* PreviewCellSix.swift in Sources */,
+				F29E3B8529B4714D008DF891 /* BreadDetailViewThree.swift in Sources */,
+				F29E3B8729B4715A008DF891 /* BreadDetailViewFour.swift in Sources */,
+				F29E3B8129B46D0E008DF891 /* PreferencesView.swift in Sources */,
+				F29E3B7D29B46CC0008DF891 /* BreadDetailViewOne.swift in Sources */,
+				F29E3B9B29B47320008DF891 /* PreviewCellSeven.swift in Sources */,
+				F29E3B8D29B47185008DF891 /* PreviewCellTwo.swift in Sources */,
+				F29E3B8329B4713F008DF891 /* BreadDetailViewTwo.swift in Sources */,
+				F29E3B7A29B46C34008DF891 /* PreviewCellOne.swift in Sources */,
+				F29E3B7F29B46CFC008DF891 /* BreadListView.swift in Sources */,
+				F29E3B8F29B47192008DF891 /* PreviewCellThree.swift in Sources */,
 				F29E3B6A29B45ACC008DF891 /* Bread_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

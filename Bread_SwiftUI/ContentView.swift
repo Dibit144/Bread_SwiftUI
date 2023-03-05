@@ -6,16 +6,17 @@
 //
 
 import SwiftUI
+// import FirebaseAnalytics
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+   
+        TabView {
+            BreadListView()
+                .tabItem { Label("Bread", systemImage: "list.bullet") }
+            PreferencesView()
+                .tabItem { Label("Preferences", systemImage: "gearshape")}
         }
-        .padding()
     }
 }
 
